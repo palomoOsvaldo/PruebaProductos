@@ -1,0 +1,6 @@
+framework module Pods_PruebaLiverpool {
+  umbrella header "Pods-PruebaLiverpool-umbrella.h"
+
+  export *
+  module * { export * }
+}
